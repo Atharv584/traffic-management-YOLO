@@ -1,5 +1,5 @@
-streamlit
-ultralytics
-torch
-opencv-python
-matplotlib
+streamlit==1.29.0
+ultralytics==8.0.197
+Pillow==10.0.0
+numpy==1.26.0
+pandas==2.1.0
